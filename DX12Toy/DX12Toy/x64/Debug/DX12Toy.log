@@ -1,2 +1,4 @@
-﻿  Main.cpp
-  DX12Toy.vcxproj -> C:\Users\kexueyangzhu\Documents\GitHub\DX12Toy\DX12Toy\x64\Debug\DX12Toy.exe
+﻿  dx12mgr.cpp
+D:\github\DX12Toy\DX12Toy\DX12Toy\dx12mgr.cpp(69,13): error C2065: “Running”: 未声明的标识符
+  Main.cpp
+  正在生成代码...
