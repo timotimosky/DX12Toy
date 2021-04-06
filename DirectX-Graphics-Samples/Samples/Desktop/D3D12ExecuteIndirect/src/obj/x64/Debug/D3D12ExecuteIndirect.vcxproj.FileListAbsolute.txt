@@ -1,0 +1,1 @@
+D:\github\DirectX-Graphics-Samples\Samples\Desktop\D3D12ExecuteIndirect\src\bin\x64\Debug\WinPixEventRuntime.dll

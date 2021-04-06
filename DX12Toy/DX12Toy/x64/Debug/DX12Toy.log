@@ -1,4 +1,5 @@
 ﻿  dx12mgr.cpp
-D:\github\DX12Toy\DX12Toy\DX12Toy\dx12mgr.cpp(69,13): error C2065: “Running”: 未声明的标识符
+D:\github\DX12Toy\DX12Toy\DX12Toy\dx12mgr.cpp(118): error C2102: “&”要求左值
+D:\github\DX12Toy\DX12Toy\DX12Toy\dx12mgr.cpp(132): error C2102: “&”要求左值
   Main.cpp
   正在生成代码...

@@ -1,0 +1,9 @@
+﻿  Performing Custom Build Tools
+  Performing Custom Build Tools
+  stdafx.cpp
+  Win32Application.cpp
+  D3D12ExecuteIndirect.cpp
+  DXSample.cpp
+  Main.cpp
+  正在生成代码...
+  D3D12ExecuteIndirect.vcxproj -> D:\github\DirectX-Graphics-Samples\Samples\Desktop\D3D12ExecuteIndirect\src\bin\x64\Debug\D3D12ExecuteIndirect.exe
